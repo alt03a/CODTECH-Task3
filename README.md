@@ -35,3 +35,4 @@ Conclusion The model was trained over 10 epochs using the Adam optimizer and Spa
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/21f26fcc-df29-4c7d-b4be-6e1fe09aec1b)
